@@ -1,0 +1,10 @@
+C:\Users\Government\source\repos\PopuForm\PopuForm\bin\Debug\PopuForm.exe.config
+C:\Users\Government\source\repos\PopuForm\PopuForm\bin\Debug\PopuForm.exe
+C:\Users\Government\source\repos\PopuForm\PopuForm\bin\Debug\PopuForm.pdb
+C:\Users\Government\source\repos\PopuForm\PopuForm\obj\Debug\PopuForm.csproj.AssemblyReference.cache
+C:\Users\Government\source\repos\PopuForm\PopuForm\obj\Debug\PopuForm.Form1.resources
+C:\Users\Government\source\repos\PopuForm\PopuForm\obj\Debug\PopuForm.Properties.Resources.resources
+C:\Users\Government\source\repos\PopuForm\PopuForm\obj\Debug\PopuForm.csproj.GenerateResource.cache
+C:\Users\Government\source\repos\PopuForm\PopuForm\obj\Debug\PopuForm.csproj.CoreCompileInputs.cache
+C:\Users\Government\source\repos\PopuForm\PopuForm\obj\Debug\PopuForm.exe
+C:\Users\Government\source\repos\PopuForm\PopuForm\obj\Debug\PopuForm.pdb
