@@ -1,0 +1,10 @@
+C:\Users\Government\source\repos\开机动画\开机动画\bin\Debug\开机动画.exe.config
+C:\Users\Government\source\repos\开机动画\开机动画\bin\Debug\开机动画.exe
+C:\Users\Government\source\repos\开机动画\开机动画\bin\Debug\开机动画.pdb
+C:\Users\Government\source\repos\开机动画\开机动画\obj\Debug\开机动画.csproj.AssemblyReference.cache
+C:\Users\Government\source\repos\开机动画\开机动画\obj\Debug\开机动画.OpenAnimation.resources
+C:\Users\Government\source\repos\开机动画\开机动画\obj\Debug\开机动画.Properties.Resources.resources
+C:\Users\Government\source\repos\开机动画\开机动画\obj\Debug\开机动画.csproj.GenerateResource.cache
+C:\Users\Government\source\repos\开机动画\开机动画\obj\Debug\开机动画.csproj.CoreCompileInputs.cache
+C:\Users\Government\source\repos\开机动画\开机动画\obj\Debug\开机动画.exe
+C:\Users\Government\source\repos\开机动画\开机动画\obj\Debug\开机动画.pdb

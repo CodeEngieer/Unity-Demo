@@ -8,3 +8,13 @@ C:\Users\Government\source\repos\PopuForm\PopuForm\obj\Debug\PopuForm.csproj.Gen
 C:\Users\Government\source\repos\PopuForm\PopuForm\obj\Debug\PopuForm.csproj.CoreCompileInputs.cache
 C:\Users\Government\source\repos\PopuForm\PopuForm\obj\Debug\PopuForm.exe
 C:\Users\Government\source\repos\PopuForm\PopuForm\obj\Debug\PopuForm.pdb
+C:\Users\Government\Desktop\行政部门\github代码共享\UnityFunctionDemo\C#\PictureSoftWare\bin\Debug\PopuForm.exe.config
+C:\Users\Government\Desktop\行政部门\github代码共享\UnityFunctionDemo\C#\PictureSoftWare\bin\Debug\PopuForm.exe
+C:\Users\Government\Desktop\行政部门\github代码共享\UnityFunctionDemo\C#\PictureSoftWare\bin\Debug\PopuForm.pdb
+C:\Users\Government\Desktop\行政部门\github代码共享\UnityFunctionDemo\C#\PictureSoftWare\obj\Debug\PopuForm.csproj.AssemblyReference.cache
+C:\Users\Government\Desktop\行政部门\github代码共享\UnityFunctionDemo\C#\PictureSoftWare\obj\Debug\PopuForm.Form1.resources
+C:\Users\Government\Desktop\行政部门\github代码共享\UnityFunctionDemo\C#\PictureSoftWare\obj\Debug\PopuForm.Properties.Resources.resources
+C:\Users\Government\Desktop\行政部门\github代码共享\UnityFunctionDemo\C#\PictureSoftWare\obj\Debug\PopuForm.csproj.GenerateResource.cache
+C:\Users\Government\Desktop\行政部门\github代码共享\UnityFunctionDemo\C#\PictureSoftWare\obj\Debug\PopuForm.csproj.CoreCompileInputs.cache
+C:\Users\Government\Desktop\行政部门\github代码共享\UnityFunctionDemo\C#\PictureSoftWare\obj\Debug\PopuForm.exe
+C:\Users\Government\Desktop\行政部门\github代码共享\UnityFunctionDemo\C#\PictureSoftWare\obj\Debug\PopuForm.pdb

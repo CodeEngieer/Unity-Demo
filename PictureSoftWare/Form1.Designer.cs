@@ -34,13 +34,13 @@ namespace PopuForm
             this.toolStrip1 = new System.Windows.Forms.ToolStrip();
             this.Open = new System.Windows.Forms.ToolStripButton();
             this.Exit = new System.Windows.Forms.ToolStripButton();
+            this.toolStripButton1 = new System.Windows.Forms.ToolStripButton();
             this.statusStrip1 = new System.Windows.Forms.StatusStrip();
+            this.tsslText = new System.Windows.Forms.ToolStripStatusLabel();
+            this.tsslPath = new System.Windows.Forms.ToolStripStatusLabel();
             this.folderBrowserDialog1 = new System.Windows.Forms.FolderBrowserDialog();
             this.imageList1 = new System.Windows.Forms.ImageList(this.components);
             this.panel1 = new System.Windows.Forms.Panel();
-            this.tsslText = new System.Windows.Forms.ToolStripStatusLabel();
-            this.tsslPath = new System.Windows.Forms.ToolStripStatusLabel();
-            this.toolStripButton1 = new System.Windows.Forms.ToolStripButton();
             this.toolStrip1.SuspendLayout();
             this.statusStrip1.SuspendLayout();
             this.SuspendLayout();
@@ -60,23 +60,30 @@ namespace PopuForm
             // 
             // Open
             // 
-            this.Open.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
             this.Open.Image = ((System.Drawing.Image)(resources.GetObject("Open.Image")));
             this.Open.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.Open.Name = "Open";
-            this.Open.Size = new System.Drawing.Size(29, 28);
-            this.Open.Text = "Open";
+            this.Open.Size = new System.Drawing.Size(93, 28);
+            this.Open.Text = "打开文件";
             this.Open.Click += new System.EventHandler(this.Open_Click);
             // 
             // Exit
             // 
-            this.Exit.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
             this.Exit.Image = ((System.Drawing.Image)(resources.GetObject("Exit.Image")));
             this.Exit.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.Exit.Name = "Exit";
-            this.Exit.Size = new System.Drawing.Size(29, 28);
-            this.Exit.Text = "Exit";
+            this.Exit.Size = new System.Drawing.Size(93, 28);
+            this.Exit.Text = "退出程序";
             this.Exit.Click += new System.EventHandler(this.Exit_Click);
+            // 
+            // toolStripButton1
+            // 
+            this.toolStripButton1.Image = ((System.Drawing.Image)(resources.GetObject("toolStripButton1.Image")));
+            this.toolStripButton1.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.toolStripButton1.Name = "toolStripButton1";
+            this.toolStripButton1.Size = new System.Drawing.Size(93, 28);
+            this.toolStripButton1.Text = "代码声明";
+            this.toolStripButton1.Click += new System.EventHandler(this.toolStripButton1_Click);
             // 
             // statusStrip1
             // 
@@ -90,6 +97,17 @@ namespace PopuForm
             this.statusStrip1.TabIndex = 1;
             this.statusStrip1.Text = "已就绪";
             // 
+            // tsslText
+            // 
+            this.tsslText.Name = "tsslText";
+            this.tsslText.Size = new System.Drawing.Size(54, 20);
+            this.tsslText.Text = "已就绪";
+            // 
+            // tsslPath
+            // 
+            this.tsslPath.Name = "tsslPath";
+            this.tsslPath.Size = new System.Drawing.Size(0, 20);
+            // 
             // imageList1
             // 
             this.imageList1.ColorDepth = System.Windows.Forms.ColorDepth.Depth8Bit;
@@ -102,27 +120,6 @@ namespace PopuForm
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(772, 580);
             this.panel1.TabIndex = 2;
-            // 
-            // tsslText
-            // 
-            this.tsslText.Name = "tsslText";
-            this.tsslText.Size = new System.Drawing.Size(54, 20);
-            this.tsslText.Text = "已就绪";
-            // 
-            // tsslPath
-            // 
-            this.tsslPath.Name = "tsslPath";
-            this.tsslPath.Size = new System.Drawing.Size(0, 20);
-            // 
-            // toolStripButton1
-            // 
-            this.toolStripButton1.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.toolStripButton1.Image = ((System.Drawing.Image)(resources.GetObject("toolStripButton1.Image")));
-            this.toolStripButton1.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.toolStripButton1.Name = "toolStripButton1";
-            this.toolStripButton1.Size = new System.Drawing.Size(29, 28);
-            this.toolStripButton1.Text = "代码声明";
-            this.toolStripButton1.Click += new System.EventHandler(this.toolStripButton1_Click);
             // 
             // Form1
             // 

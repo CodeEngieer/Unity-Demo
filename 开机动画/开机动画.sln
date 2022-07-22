@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32510.428
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PopuForm", "PopuForm.csproj", "{92345739-567A-4041-B36C-92607C3FDFB5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "开机动画", "开机动画\开机动画.csproj", "{D4E93578-E419-4EAC-AB4A-FACB1D5353E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{92345739-567A-4041-B36C-92607C3FDFB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{92345739-567A-4041-B36C-92607C3FDFB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{92345739-567A-4041-B36C-92607C3FDFB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{92345739-567A-4041-B36C-92607C3FDFB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4E93578-E419-4EAC-AB4A-FACB1D5353E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4E93578-E419-4EAC-AB4A-FACB1D5353E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4E93578-E419-4EAC-AB4A-FACB1D5353E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4E93578-E419-4EAC-AB4A-FACB1D5353E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {398B80D1-1B15-44C4-B0AF-0DA7625745FE}
+		SolutionGuid = {C6CD48C2-C28F-49C7-8831-F19FBAAE41E0}
 	EndGlobalSection
 EndGlobal
